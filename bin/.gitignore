@@ -1,8 +1,4 @@
-/com/
-/utility/
-/shapes/
+/mine/
+/dog/
 /physics/
-/PhysicsCirce.class
-/PhysicsCircle.class
-/Moving.class
-/Movable.class
+/game/
